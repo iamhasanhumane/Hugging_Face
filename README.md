@@ -1,38 +1,35 @@
 # Natural Language Processing using HuggingFace Transformers
 
 
-![Hugging Face]((https://github.com/user-attachments/assets/6b4504f9-3979-4295-93fc-e09d5dda0540))
+## Chapter - 1
 
+* Sentiment Analysis
 
-Chapter - 1
+* Zero Shot Classification
 
-Sentiment Analysis
+* Text Generation
 
-Zero Shot Classification
+* Loading with Distill GPT2 Model
 
-Text Generation
+* Text Embedding 
 
-Loading with Distill GPT2 Model
+* Named Entity Recognition
 
-Text Embedding 
+* Question Answering
 
-Named Entity Recognition
+* Summarization
 
-Question Answering
-
-Summarization
-
-Translation
+* Translation
 
 
 Chapter - 2
 
-Inside the Pipeline Function
+* Inside the Pipeline Function
 
-Instantiating a Transformer Model
+* Instantiating a Transformer Model
 
-Overview of Tokenizers
+* Overview of Tokenizers
 
-The Tokenization Pipeline
+* The Tokenization Pipeline
 
-Batching Sentence Inputs Together
+* Batching Sentence Inputs Together
