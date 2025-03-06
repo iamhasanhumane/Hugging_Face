@@ -1,7 +1,7 @@
 # Natural Language Processing using HuggingFace Transformers
 
 
-![Hugging Face](https://www.google.com/imgres?q=Hugging%20face&imgurl=https%3A%2F%2Fworkable-application-form.s3.amazonaws.com%2Fadvanced%2Fproduction%2F61557f91d9510741dc62e7f8%2Fc3635b59-a3d2-444a-b636-a9d0061dcdde&imgrefurl=https%3A%2F%2Fapply.workable.com%2Fhuggingface%2F&docid=wmhOD7jQSjJ_hM&tbnid=SwiJr8mtDnIEeM&vet=12ahUKEwja2dTgtvWLAxWCSmwGHfb3GqkQM3oECGYQAA..i&w=2048&h=2048&hcb=2&ved=2ahUKEwja2dTgtvWLAxWCSmwGHfb3GqkQM3oECGYQAA)
+![Hugging Face](![image](https://github.com/user-attachments/assets/6b4504f9-3979-4295-93fc-e09d5dda0540))
 
 
 Chapter - 1
