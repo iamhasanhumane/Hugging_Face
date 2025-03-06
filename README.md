@@ -1,7 +1,7 @@
 # Natural Language Processing using HuggingFace Transformers
 
 
-![Hugging Face](![image](https://github.com/user-attachments/assets/6b4504f9-3979-4295-93fc-e09d5dda0540))
+![Hugging Face]((https://github.com/user-attachments/assets/6b4504f9-3979-4295-93fc-e09d5dda0540))
 
 
 Chapter - 1
